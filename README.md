@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot!**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **UI/UX Designing**
 
 <h3 align="left">Connect with Me!</h3>
 <p align="left">
