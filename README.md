@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Priyanka SP</h1>
 <h3 align="left">A passionate Developer and Designer</h3>
 
-- 🌱 I’m currently learning **Spring Boot!**
+- 🌱 I’m currently learning **UI/UX Designing!**
 
-- 👯 I’m looking to collaborate on **UI/UX Designing**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 <h3 align="left">Connect with Me!</h3>
 <p align="left">
