@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Priyanka SP</h1>
 <h3 align="left">A passionate Developer and Designer</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Spring Boot!**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
